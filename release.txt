@@ -1,0 +1,5 @@
+Version 1.0
+- Visit facebook groups and search specific text in group posts by clicking "NEXT"
+- group ids specified in data.js
+- search texts specified in data.js
+- All visited links will be shown in the page
