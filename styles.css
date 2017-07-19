@@ -1,0 +1,20 @@
+#btnNextLink
+{
+	display: inline-block;
+	width: 80px;
+	height: 20px;
+	text-align: center;
+	padding: 5px;
+	background: #d1d63f;
+	cursor: hand
+}
+
+#visitedLinks
+{
+	margin: 20px;
+}
+
+.facebookLink
+{
+	padding: 3px;
+}
